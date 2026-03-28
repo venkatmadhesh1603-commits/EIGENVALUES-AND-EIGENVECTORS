@@ -28,7 +28,8 @@ print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
 
 
 ```
-<img width="1260" height="931" alt="image" src="https://github.com/user-attachments/assets/25df190e-96eb-466e-8209-1cb4f72e7279" />
+![WhatsApp Image 2026-03-28 at 9 33 23 AM](https://github.com/user-attachments/assets/939fde9f-0380-4832-b9f4-92809a343598)
+
 
 ## Output:<img width="1261" height="366" alt="image" src="https://github.com/user-attachments/assets/adc1feed-be0f-441b-b3af-e6ce637dcdcf" />
 
